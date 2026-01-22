@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BioThermR"]
+	path = BioThermR
+	url = https://github.com/rightsz/biothermr
 [submodule "xvm"]
 	path = xvm
 	url = https://github.com/rightsz/xvm
